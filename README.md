@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/thenameisnafis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thenameisnafis" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/thenameisnafis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/thenameisnafis" height="30" width="40" /></a>
-<a href="https://fb.com/thenafishasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thenameisnafis" height="30" width="40" /></a>
+<a href="https://www.facebook.com/thenafishasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thenameisnafis" height="30" width="40" /></a>
 <a href="https://instagram.com/thenameisnafis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenameisnafis" height="30" width="40" /></a>
 <a href="https://discord.gg/nafishasanchowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nafishasanchowdhury" height="30" width="40" /></a>
 </p>
