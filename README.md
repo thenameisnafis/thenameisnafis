@@ -1,4 +1,4 @@
-![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![logo](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hola 👋🏻, I'm Nafis Hasan</h1>
 <h3 align="center">CSE Student from American International University-Bangladesh</h3>
 
