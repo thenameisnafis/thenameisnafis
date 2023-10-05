@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **WEB DEVOLOPMENT**
 
-- 💬 Ask me about **C++, JAVA**
+- 💬 Ask me about **C++, JAVA**, **WEB DEVOLOPMENT**
 
 - 📫 How to reach me **nafishasan149@gmail.com**
 
