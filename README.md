@@ -1,4 +1,5 @@
-![bg](https://github.com/thenameisnafis/thenameisnafis/assets/118046574/f1c30536-c3b4-476e-9bd2-5e9ae86a65cd)![logo](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+
 <h1 align="center">Hola 👋🏻, I'm Nafis Hasan</h1>
 <h3 align="center">CSE Student from American International University-Bangladesh</h3>
 
