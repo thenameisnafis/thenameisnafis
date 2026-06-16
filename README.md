@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,kotlin,php,js&perline=8" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,php,js&perline=8" alt="Programming Languages" />
   </a>
 </p>
 
