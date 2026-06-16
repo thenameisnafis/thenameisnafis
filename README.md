@@ -52,33 +52,33 @@
 
 ---
 
+
 ## 🛠️ Languages and Tools
 
 ### Programming Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,php,js&perline=8" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,py,js,php&perline=8" alt="Programming Languages" />
   </a>
 </p>
 
-### Frontend, Mobile & Web Technologies
+### Frameworks, Web Technologies & Databases
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap,tailwind,androidstudio&perline=8" alt="Frontend and Mobile Technologies" />
+    <img src="https://skillicons.dev/icons?i=react,dotnet,html,css,mysql&perline=8" alt="Frameworks Web Technologies and Databases" />
   </a>
 </p>
 
-### Backend, Databases & Development Tools
+### Software Testing, Development Tools & Platforms
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,flask,mysql,git,github,linux,figma,vscode&perline=8" alt="Backend and Tools" />
+    <img src="https://skillicons.dev/icons?i=selenium,git,github,visualstudio,figma,matlab&perline=8" alt="Software Testing Development Tools and Platforms" />
   </a>
 </p>
-
----
+```
 
 ## 📌 Current Focus
 
