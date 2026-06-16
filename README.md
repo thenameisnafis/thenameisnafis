@@ -1,44 +1,120 @@
 ![MasterHead](https://github.com/thenameisnafis/thenameisnafis/blob/main/nafiscover.gif)
 
 <h1 align="center">Hola 👋🏻, I'm Nafis Hasan</h1>
-<h3 align="center">CSE Student from American International University-Bangladesh</h3>
-<h1 align="center">Student</h1>
+<h3 align="center">CSE Student | Machine Learning & Data Science Enthusiast | Web Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Learning+Machine+Learning+%26+Data+Science;Interested+in+AI%2C+Web+Development+%26+Software+Engineering;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+</p>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/zhYSVCirREeIZtONCI/200w.gif?cid=82a1493b9h1lkftmna6nu3yhdfrhhqgm7oa3tkgxqos86j5h&ep=v1_gifs_related&rid=200w.gif&ct=s">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thenameisnafis&label=Profile%20views&color=0e75b6&style=flat" alt="thenameisnafis" /> </p>
-
-- 🌱 I’m currently learning **MACHINE LEARNING & DATA SCIENCE** 
-
-- 💬 Ask me about **C++, JAVA**, **WEB DEVOLOPMENT**, **AI** 
-
-- 📫 How to reach me **nafishasan149@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thenameisnafis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thenameisnafis" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/thenameisnafis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/thenameisnafis" height="30" width="40" /></a>
-<a href="https://www.facebook.com/thenafishasan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thenameisnafis" height="30" width="40" /></a>
-<a href="https://instagram.com/thenameisnafis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenameisnafis" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nafishasan149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nafishasan149" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/thenameisnafis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="thenameisnafis" height="30" width="40" /></a>
-<a href="https://discord.gg/nafishasanchowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nafishasanchowdhury" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=thenameisnafis&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+---
 
-# 📊 GitHub Stats:
+## 👨‍💻 About Me
 
-![](https://github-readme-stats.vercel.app/api?username=thenameisnafis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=thenameisnafis&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thenameisnafis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🎓 I am a **Computer Science and Engineering student** at **American International University-Bangladesh**
+- 🌱 I’m currently learning **Machine Learning, Data Science, and Artificial Intelligence**
+- 💻 I’m interested in **Software Development, Web Development, AI, and Research**
+- 🧠 I enjoy working with **C++, Java, Python, and Web Technologies**
+- 💬 Ask me about **C++, Java, Web Development, Machine Learning, and AI**
+- 📫 Reach me at **nafishasan149@gmail.com**
+- ⚡ Goal: To become a skilled developer and build real-world AI-based solutions
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thenameisnafis&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+---
 
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 🌐 Connect With Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=thenameisnafis&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p align="left">
+  <a href="https://twitter.com/thenameisnafis" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/thenameisnafis/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/thenafishasan/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/thenameisnafis" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/nafishasan149" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/thenameisnafis" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+### Programming Languages
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,kotlin,php,js&perline=8" alt="Programming Languages" />
+  </a>
+</p>
+
+### Frontend, Mobile & Web Technologies
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap,tailwind,androidstudio&perline=8" alt="Frontend and Mobile Technologies" />
+  </a>
+</p>
+
+### Backend, Databases & Development Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,flask,mysql,git,github,linux,figma,vscode&perline=8" alt="Backend and Tools" />
+  </a>
+</p>
+
+---
+
+## 📌 Current Focus
+
+```text
+Machine Learning     █████████░░   Learning
+Data Science         ████████░░░   Learning
+Web Development      █████████░░   Building
+Problem Solving      ████████░░░   Practicing
+Research Writing     ███████░░░░   Improving
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thenameisnafis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thenameisnafis&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenameisnafis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+
+## ✍️ Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
+</p>
+
+---
+
+<h3 align="center">Thanks for visiting my profile! 🚀</h3>
